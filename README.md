@@ -24,7 +24,7 @@ Please make sure that your system is up-to-date.
 
 ### Arch Linux (based)
 ```
-bash <(curl -s https://raw.githubusercontent.com/mylinuxforwork/dotfiles/main/setup-arch.sh)
+bash <(curl -s https://raw.githubusercontent.com/miguelbrandao/dotfiles/main/setup-arch.sh)
 ```
 
 You can also install the main release with your preferred AUR helper. 
